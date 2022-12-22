@@ -131,5 +131,3 @@ dmypy.json
 # Jupyterlab
 .virtual_documents/
 
-# datadir
-data

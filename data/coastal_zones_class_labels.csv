@@ -1,0 +1,231 @@
+index,class
+1,Urban
+2,Cropland
+3,Woodland and forest
+4,Grassland
+5,Heathland and scrub
+6,Open spaces with little or no vegetation
+7,Wetland
+8,Water
+11,"Urban fabric, industrial, commercial, public, military and private units"
+12,Transport infrastructure
+13,"Mineral extraction, dump and construction sites, land without current use"
+14,"Green urban, sports and leisure facilities"
+21,Arable land
+22,Permanent crops
+23,Heterogeneous agricultural area
+31,Broadleaved forest
+32,Coniferous forest
+33,Mixed forest
+34,Transitional woodland and scrub
+35,Lines of trees and scrub
+36,Damaged forest
+41,Managed grassland
+42,Natural & semi-natural grassland
+51,Healthland and moorland
+52,Alpine scrub land
+53,Sclerophyllous scrubs
+61,Sparsely vegetated areas
+62,"Beaches, dunes, river banks"
+63,"Bare rocks, burnt areas, glaciers and perpetual snow"
+71,Inland wetlands
+72,Coastal wetlands
+81,Water courses
+82,Lakes and reservoirs
+83,Transitional waters
+84,Sea and ocean
+111,Urban fabric (predominantly public and private units)
+112,"Industrial, commercial, public and military units"
+121,Road networks and associated land
+122,Railways and associated land
+123,Port areas and associated land
+124,Airports and associated land
+131,"Mineral extraction, dump and construction sites"
+132,Land without current use
+140,"Green urban, sports and leisure facilities"
+211,Arable irrigated and non-irrigated land
+212,Greenhouses
+221,"Vineyards, fruit trees and berry plantations"
+222,Olive groves
+231,Annual crops associated with permanent crops
+232,Complex cultivation patterns
+233,Land principally occupied by agriculture with significant areas of natural vegetation
+234,Agro-forestry
+311,Natural & semi-natural broadleaved forest
+312,Highly artifical broadleaved plantations
+321,Natural & semi-natural coniferous forest
+322,Highly artifical coniferous plantations
+331,Natural & semi-natural mixed forest
+332,Highly artifical mixed plantations
+340,Transitional woodland and scrub
+350,Lines of trees and scrub
+360,Damaged forest
+410,Managed grassland
+421,Semi-natural grassland
+422,Alpine and sub-alpine natural grassland
+510,Healthland and moorland
+520,Alpine scrub land
+530,Sclerophyllous scrubs
+611,Sparse vegetation on sands
+612,Sparse vegetation on rocks
+621,Beaches and dunes
+622,River banks
+631,"Bare rocks, outcrops, cliffs"
+632,Burnt areas (except burnt forest)
+633,Glaciers and perpetual snow
+711,Inland marshes
+712,Peat bogs
+721,Salt marshes
+722,Salines
+723,Intertidal flats
+811,Natural & semi-natural water courses
+812,Highly modified water courses and canals
+813,Seasonally connected water courses (oxbows)
+821,Natural lakes
+822,Reservoirs
+823,Aquaculture ponds
+824,Standing water bodies of extractive industrial sites
+831,Lagoons
+832,Estuaries
+833,Marine inlets and fjords
+841,Open sea
+842,Coastal waters
+1111,Continuous urban fabric(IMD => 80%)
+1112,Dense urban fabric (IMD =>30-80%)
+1113,Low density fabric (IMD <30%)
+1121,"Industrial, commercial, public and military units (other)"
+1122,Nuclear energy plants and associated land
+1210,Road networks and associated land
+1220,Railways and associated land
+1231,Cargo port
+1232,Passenger port
+1233,Fishing port
+1234,Naval port
+1235,Marinas
+1236,Local multi-functional harbours
+1237,Shipyards
+1240,Airports and associated land
+1311,Mineral extraction sites
+1312,Dump sites
+1313,Construction sites
+1320,Land without current use
+1400,"Green urban, sports and leisure facilities"
+2110,Arable irrigated and non-irrigated land
+2120,Greenhouses
+2210,"Vineyards, fruit trees and berry plantations"
+2220,Olive groves
+2310,Annual crops associated with permanent crops
+2320,Complex cultivation patterns
+2330,Land principally occupied by agriculture with significant areas of natural vegetation
+3110,Natural & semi-natural broadleaved forest
+3120,Highly artifical broadleaved plantations
+3210,Natural & semi-natural coniferous forest
+3220,Highly artifical coniferous plantations
+3310,Natural & semi-natural mixed forest
+3320,Highly artifical mixed plantations
+3400,Transitional woodland and scrub
+3500,Lines of trees and scrub
+3600,Damaged forest
+4100,Managed grassland
+4210,Semi-natural grassland
+4220,Alpine and sub-alpine natural grassland
+5100,Healthland and moorland
+5200,Alpine scrub land
+5300,Sclerophyllous scrubs
+6110,Sparse vegetation on sands
+6120,Sparse vegetation on rocks
+6211,Beaches
+6212,Dunes
+6220,River banks
+6311,Bare rocks and outcrops
+6312,Coastal cliffs
+6320,Burnt areas (except burnt forest)
+6330,Glaciers and perpetual snow
+7110,Inland marshes
+7121,Exploited peat bogs
+7122,Unexploited peat bogs
+7210,Salt marshes
+7220,Salines
+7230,Intertidal flats
+8110,Natural & semi-natural water courses
+8120,Highly modified water courses and canals
+8130,Seasonally connected water courses (oxbows)
+8210,Natural lakes
+8220,Reservoirs
+8230,Aquaculture ponds
+8240,Standing water bodies of extractive industrial sites
+8310,Lagoons
+8320,Estuaries
+8330,Marine inlets and fjords
+8410,Open sea
+8420,Coastal waters
+11110,Continuous urban fabric(IMD => 80%)
+11120,Dense urban fabric (IMD =>30-80%)
+11130,Low density fabric (IMD <30%)
+11210,"Industrial, commercial, public and military units (other)"
+11220,Nuclear energy plants and associated land
+12100,Road networks and associated land
+12200,Railways and associated land
+12310,Cargo port
+12320,Passenger port
+12330,Fishing port
+12340,Naval port
+12350,Marinas
+12360,Local multi-functional harbours
+12370,Shipyards
+12400,Airports and associated land
+13110,Mineral extraction sites
+13120,Dump sites
+13130,Construction sites
+13200,Land without current use
+14000,"Green urban, sports and leisure facilities"
+21100,Arable irrigated and non-irrigated land
+21200,Greenhouses
+22100,"Vineyards, fruit trees and berry plantations"
+22200,Olive groves
+23100,Annual crops associated with permanent crops
+23200,Complex cultivation patterns
+23300,Land principally occupied by agriculture with significant areas of natural vegetation
+31100,Natural & semi-natural broadleaved forest
+31200,Highly artifical broadleaved plantations
+32100,Natural & semi-natural coniferous forest
+32200,Highly artifical coniferous plantations
+33100,Natural & semi-natural mixed forest
+33200,Highly artifical mixed plantations
+34000,Transitional woodland and scrub
+35000,Lines of trees and scrub
+36000,Damaged forest
+41000,Managed grassland
+42100,Semi-natural grassland
+42200,Alpine and sub-alpine natural grassland
+51000,Healthland and moorland
+52000,Alpine scrub land
+53000,Sclerophyllous scrubs
+61100,Sparse vegetation on sands
+61200,Sparse vegetation on rocks
+62111,Sandy beaches
+62112,Shingle beaches
+62120,Dunes
+62200,River banks
+63110,Bare rocks and outcrops
+63120,Coastal cliffs
+63200,Burnt areas (except burnt forest)
+63300,Glaciers and perpetual snow
+71100,Inland marshes
+71210,Exploited peat bogs
+71220,Unexploited peat bogs
+72100,Salt marshes
+72200,Salines
+72300,Intertidal flats
+81100,Natural & semi-natural water courses
+81200,Highly modified water courses and canals
+81300,Seasonally connected water courses (oxbows)
+82100,Natural lakes
+82200,Reservoirs
+82300,Aquaculture ponds
+82400,Standing water bodies of extractive industrial sites
+83100,Lagoons
+83200,Estuaries
+83300,Marine inlets and fjords
+84100,Open sea
+84200,Coastal waters
